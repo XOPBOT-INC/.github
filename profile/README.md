@@ -11,4 +11,29 @@ Although in the beginning of the bot's website the default languages were englis
 <hr/>
 <h2>The Economic Crisis</h2>
 In the beginning of 2022 <code>APULL</code> (our former now company) was getting into economic crisis since the company was no longer getting much profit and was slowly falling because there were not many people online as covid had ended for most countries and the third party services were broke, the company returned <code>XOPBOT</code> to its original creators and founders and later shut down since there was no point of paying for services that would not profit anything, so in 13 april 2022 <code>APULL</code> completely stopped funding the company and are now a non-profit company working for 13000+ users on discord :)
+<hr/>
+<h2>The Current Members</h2>
+  <a href="https://github.com/HACKERPROTM" title="Brandon Torreglosa (HACKERPROTM)">
+<img width="150" height="150" src="https://avatars.githubusercontent.com/u/84269666?v=4">
+</a>
+&nbsp;
+<a href="https://github.com/AryanDaga1" title="Unknown Real Name (AryanDaga1)">
+<img width="150" height="150" src="https://avatars.githubusercontent.com/u/82522625?v=4">
+</a>
+&nbsp;
+<a href="https://github.com/Nickdevelops" title="Nikos (Nickdevelops)">
+<img width="150" height="150" src="https://avatars.githubusercontent.com/u/86734318?v=4">
+</a>
+&nbsp;
+<a href="https://github.com/Simpleboy353" title="Unknown Real Name (Simpleboy353)">
+<img width="150" height="150" src="https://avatars.githubusercontent.com/u/67364262?v=4">
+</a>
+&nbsp;
+<a href="https://discord.com/users/763062481911545886" title="Esteban Torreglosa (Trixer#8894)">
+<img width="150" height="150" src="https://cdn.discordapp.com/avatars/763062481911545886/c4d9bcc4c39208083fc90e79b4d85962.webp">
+</a>
+&nbsp;
+<a href="https://discord.com/users/505313230500003841" title="Ryan Nourine (Tactical Pizza#7384)">
+<img width="150" height="150" src="https://cdn.glitch.global/ee0192b4-293c-47fb-8c35-d64d20c9fb07/dc8277f0c33a644dfbffad749af23ae7.jpg">
+</a>
 </i></b>
