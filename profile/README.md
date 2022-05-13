@@ -1,1 +1,8 @@
-# .github
+<b><i>
+<h2>The Beginning</h2>
+XOPBOT.inc is an multiregion company mostly dedicated to developing discord bot's and websites.<br/>XOPBOT.inc was founded on june 28 2021 as a company although the discord bot itself was created on april 14 2021, it's founders were the brothers <a href="https://instagram.com/brandon.torreglosa">Brandon Torreglosa</a> and <a href="https://about:blank">Esteban Torreglosa</a> that made it for fun purposes and just to have a laugh. But some time later the co-founder left as the CEO and discontinued the bot developing, with results on march 15 2021 the company to be acquired by a low level company named <code>APULL.Inc</code> who now have as CEO the first founder and own 50% of the company's rights and have desicion in new updates and more. 
+<hr/>
+<h2>Growth And Products</h2>
+After XOPBOT.inc was acquired by <code>APULL.Inc</code> the company started itself showing massive participation in expanding the bot development and making the bot more popular and it started with the web app of the bot. The first domain created by <code>APULL.Inc</code> for the company was the famous <a href="https://xopbot.glitch.me">xopbot-gg.glitch.me</a> domain that achieved great success and profited to <code>APULL.Inc</code> over 300$ in the first three months by the website advertisements, but sadly these advertisements contained 18+ sometimes content since it came from s third party service leading the domain to be suspended and resulting the company to make a new domains that are not longer useable: <a href="https://xopbot.glitch.me/">www.xopbot.tk</a> and <a href="https://xopbot.glitch.me/">www.xopbot.gl</a>
+<hr/>
+</i></b>
