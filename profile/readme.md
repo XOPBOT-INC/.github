@@ -36,4 +36,7 @@ In the beginning of 2022 <code>APULL</code> (our former now company) was getting
 <a href="https://discord.com/users/505313230500003841" title="Ryan Nourine (Tactical Pizza#7384)">
 <img width="130" height="130" src="https://cdn.glitch.global/ee0192b4-293c-47fb-8c35-d64d20c9fb07/dc8277f0c33a644dfbffad749af23ae7.jpg">
 </a>
+<hr/>
+<h2>Company Status</h2>
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/XOPBOT-inc?label=Sponsors&style=for-the-badge">&nbsp;&nbsp;<img alt="GitHub followers" src="https://img.shields.io/github/followers/XOPBOT-inc?color=green&style=for-the-badge">&nbsp;&nbsp;<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/XOPBOT-inc/.github?color=yellow&style=for-the-badge">&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=XOPBOT-inc&style=for-the-badge">
 </i></b>
