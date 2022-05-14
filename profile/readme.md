@@ -1,4 +1,4 @@
-<img height="150px" width="150px" src="https://avatars.githubusercontent.com/u/101459775?s=200&v=4">
+<img height="200px" width="100%" src="https://i.imgur.com/uMOcs3e.png">
 <b><i>
 <h2>The Beginning</h2>
 XOPBOT.inc is an multiregion company mostly dedicated to developing discord bot's and websites.<br/>XOPBOT.inc was founded on june 28 2021 as a company although the discord bot itself was created on april 14 2021, it's founders were the brothers <a href="https://instagram.com/brandon.torreglosa">Brandon Torreglosa</a> and <a href="https://about:blank">Esteban Torreglosa</a> that made it for fun purposes and just to have a laugh. But some time later the co-founder left as the CEO and discontinued the bot developing, with results on march 15 2021 the company to be acquired by a low level company named <code>APULL.Inc</code> who had as CEO the first founder and owned 50% of the company's rights and had desicions in updates and more. 
