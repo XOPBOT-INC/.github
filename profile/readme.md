@@ -38,5 +38,5 @@ In the beginning of 2022 <code>APULL</code> (our former company) was getting int
 </a>
 <hr/>
 <h2>Company Status</h2>
-<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/XOPBOT-inc?label=Sponsors&style=for-the-badge">&nbsp;&nbsp;<img alt="GitHub followers" src="https://img.shields.io/github/followers/XOPBOT-inc?color=green&style=for-the-badge">&nbsp;&nbsp;<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/XOPBOT-inc/.github?color=yellow&style=for-the-badge">&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=Company%20networth&message=2.3K&color=red&style=for-the-badge">&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=XOPBOT-inc&style=for-the-badge">
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/xopbot-incorporated?label=Sponsors&style=for-the-badge">&nbsp;&nbsp;<img alt="GitHub followers" src="https://img.shields.io/github/followers/xopbot-incorporated?color=green&style=for-the-badge">&nbsp;&nbsp;<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/XOPBOT-inc/.github?color=yellow&style=for-the-badge">&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=Company%20networth&message=2.3K&color=red&style=for-the-badge">&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=XOPBOT-inc&style=for-the-badge">
 </i></b>
